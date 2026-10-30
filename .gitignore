@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# sqlite db
+/data/*.sqlite
+/data/*.sqlite-journal
+/data/*.sqlite-wal
+/data/*.sqlite-shm
+
+# misc
+.DS_Store
+*.pem
+next-env.d.ts
+*.tsbuildinfo
+
